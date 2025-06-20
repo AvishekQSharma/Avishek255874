@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Avishek ! 
-*Digital Craftsman (Developer / Programmer)*
+Web Developer & UI/UX Designer 
 <br /> 
 
 <!--Start Intro-->               
